@@ -66,3 +66,63 @@ body {
 .fa-instagram {
     padding: 7px 10px;
 }
+
+/* Logo Bar */
+
+#logobar img {
+    width: 150px;
+    height: 150px;
+    margin: 1px 0px;
+}
+
+
+
+/* Navbar */
+#navbar {
+    background-color: #ee5253;
+}
+
+
+#navbar ul li {
+    display: inline-block;
+    padding: 18px 0px;
+    padding-right: 35px;
+
+}
+
+#navbar ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+/* Footer */
+#imp-link {
+    background-color: #576574;
+    color: white;
+    overflow: auto;
+}
+
+.div33 {
+    width: 33.33%;
+    float: left;
+    padding: 25px 50px;
+    box-sizing: border-box;
+}
+
+.div33 h3 {
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    text-decoration-thickness: 2px;
+}
+
+#footer-menu {
+    list-style-type: none;
+    padding: 0px;
+}
