@@ -1,4 +1,17 @@
+@font-face {
+    font-family: CodaCaption-ExtraBold;
+    src: url(../fonts/CodaCaption-ExtraBold.ttf);
+}
+
 * {
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-family: 'Roboto', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: CodaCaption-ExtraBold;
 }
