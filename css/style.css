@@ -1,3 +1,4 @@
+/* font */
 @font-face {
     font-family: CodaCaption-ExtraBold;
     src: url(../fonts/CodaCaption-ExtraBold.ttf);
@@ -14,4 +15,54 @@ h3,
 h4,
 h5 {
     font-family: CodaCaption-ExtraBold;
+}
+
+
+/* body  */
+body {
+    margin: 0;
+}
+
+.uni-padding {
+    padding: 0 7%;
+}
+
+
+
+/* top bar */
+#topbar {
+    background-color: #576574;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    overflow: auto;
+}
+
+#tollfree {
+    float: left;
+    color: #fdfdfd;
+    margin: 0;
+    margin-top: 5px;
+}
+
+#socialicon {
+    float: right;
+}
+
+.fab {
+    background-color: #fdfdfd;
+    color: #576574;
+    padding: 7px;
+    border-radius: 50%;
+}
+
+.fa-facebook {
+    padding: 7px 10px;
+}
+
+.fa-whatapp {
+    padding: 7px 9px;
+}
+
+.fa-instagram {
+    padding: 7px 10px;
 }
