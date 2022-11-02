@@ -102,6 +102,12 @@ body {
 }
 
 
+/* Poster */
+#poster {
+    background-image: url(../images/cover.jpg);
+}
+
+
 /* Footer */
 #imp-link {
     background-color: #576574;
