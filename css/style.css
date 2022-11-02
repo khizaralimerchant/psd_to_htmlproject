@@ -105,8 +105,26 @@ body {
 /* Poster */
 #poster {
     background-image: url(../images/cover.jpg);
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+
 }
 
+#poster h1 {
+    font-size: 50px;
+}
+
+
+#poster p {
+    font-size: 18px;
+    text-align: center;
+}
 
 /* Footer */
 #imp-link {
