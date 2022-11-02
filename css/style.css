@@ -126,3 +126,25 @@ body {
     list-style-type: none;
     padding: 0px;
 }
+
+#footer-menu li {
+    padding-bottom: 10px;
+}
+
+#footer-menu li a {
+    text-decoration: none;
+    color: white;
+}
+
+
+#footer-menu-container {
+    padding-left: 100px;
+}
+
+
+#copyright {
+    background-color: #222f3e;
+    text-align: center;
+    color: #cbcbcb;
+    padding: 10px;
+}
